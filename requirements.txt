@@ -1,1 +1,2 @@
 streamlit-lottie
+streamlit_pdf_reader
