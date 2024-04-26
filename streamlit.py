@@ -14,6 +14,7 @@ def load_lottieurl(url):
         return None
     return r.json()
 
+
 lottie_animation = load_lottieurl("https://lottie.host/0f8011fb-c4f1-42d2-848c-fa560174cbde/UkjgMal1fr.json")
 img_uci = Image.open('images/uci.png')
 img_wgu = Image.open('images/wgu.png')

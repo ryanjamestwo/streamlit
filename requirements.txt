@@ -1,5 +1,1 @@
-setuptools wheel twine
 streamlit-lottie
-requests
-PIL
-streamlit_pdf_reader
