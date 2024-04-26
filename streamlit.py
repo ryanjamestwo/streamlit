@@ -122,7 +122,7 @@ with st.container():
         st.image(img_msda)
 
     with text_column:
-        st.header("Master of Science in Data Analytics Projects")
+        st.header("Masters of Science in Data Analytics Projects")
         st.write(
                 """
                  The Masters of Science in Data Analytics explores the entire lifecycle of data through practical work. It covers:
