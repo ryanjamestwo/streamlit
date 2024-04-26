@@ -1,5 +1,5 @@
 setuptools wheel twine
-streamlit_lottie
+streamlit-lottie
 requests
 PIL
 streamlit_pdf_reader
