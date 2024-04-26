@@ -76,6 +76,7 @@ with right_column:
 with st.container():
     st.write("---")
     st.title("Education")
+    st.write("---")
     image_column, text_column = st.columns((1,3))
     with image_column:
         st.image(img_uci)
@@ -112,6 +113,7 @@ with st.container():
 with st.container():
     st.write("---")
     st.title("Projects")
+    st.write("---")
 
 # wgu projects
 with st.container():
