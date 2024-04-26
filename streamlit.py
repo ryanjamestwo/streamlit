@@ -77,7 +77,7 @@ with st.container():
     st.write("---")
     st.title("Education")
     st.write("---")
-    image_column, text_column = st.columns((1,3))
+    image_column, text_column = st.columns((1,4))
     with image_column:
         st.image(img_uci)
 
@@ -95,7 +95,7 @@ with st.container():
         
 with st.container():
     st.write("---")
-    text_column, image_column = st.columns((3,1))
+    text_column, image_column = st.columns((4,1))
     with image_column:
         st.image(img_wgu)
 
