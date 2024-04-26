@@ -1,0 +1,4 @@
+streamlit_lottie
+requests
+PIL
+streamlit_pdf_reader
