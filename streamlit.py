@@ -43,7 +43,7 @@ with text_column:
     st.write("""
              
              I am a BI / Data Analyst with experience at a Fortune 300 company, current graduate student in Master of Science in Data Analytics @ WGU, and BA Economics @ University of California, Irvine. \n
-             This website was built out with Streamlit!
+             This portfolio was coded in Python using Streamlit!
              
              """)
     st.write("[Check out my github!](https://github.com/ryanjamestwo)")
